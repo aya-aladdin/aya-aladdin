@@ -83,11 +83,11 @@ Feel free to reach out to my [Email](mailto:aya2aladdin@gmail.com) or [Discord](
 </p>
 
 ---
-<p align="center">
+<!-- <p align="center">
       <img src="https://user-badge.committers.top/uae/aya-aladdin.svg">
 </p>
 
----
+--- -->
 
 
 <p align="center">
