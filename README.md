@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+sans&weight=800&size=30&duration=2000&pause=1000&color=565E52&width=555&lines=%F0%9D%97%9B%F0%9D%97%B6%F0%9D%97%B6!+%F0%9D%97%9C%F0%9D%97%BA+%F0%9D%97%94%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%BB+%F0%9F%AA%90+;+%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2+%F0%9D%98%81%F0%9D%97%BC+%F0%9D%97%BA%F0%9D%98%86+%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2+%E2%9C%A8" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+sans&weight=1200&size=30&duration=2000&pause=1000&color=565E52&width=555&lines=hey+there!+I'm+Aya+Aladdin+%F0%9F%AA%90+;Welcome+to+my+profile+%E2%9C%A8" alt="Typing SVG" /></a>
 
 ---
 
