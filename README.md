@@ -1,10 +1,5 @@
 
-<a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=DM+sans&weight=800&size=30&duration=2000&pause=300&color=B7C9B0&width=555&lines=hey!!+I'm+Aya+Aladdin+%F0%9F%8F%86;Welcome+to+my+profile+%E2%9C%A8" 
-    alt="Typing SVG" 
-  />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+sans&weight=800&size=30&duration=2000&pause=1000&color=565E52&width=555&lines=hey+there!+I'm+Aya+Aladdin+%F0%9F%AA%90+;Welcome+to+my+profile+%E2%9C%A8" alt="Typing SVG" /></a>
 
 ---
 
