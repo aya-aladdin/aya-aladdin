@@ -27,11 +27,11 @@ Feel free to reach out to my [Email](mailto:aya2aladdin@gmail.com) or [Discord](
 
 <table align="center">
   <tr align="center">
-    <th>Languages</th>
+    <th>Known Languages</th>
     <th>Frameworks</th>
-    <th>Tools & Misc</th>
+    <th>Tools</th>
     <th>Apps & OS</th>
-    <th>Learning</th>
+    <th>Learning Languages</th>
   </tr>
   <tr align="center">
     <td>
